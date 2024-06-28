@@ -2,8 +2,8 @@
 
 ## Présentation
 
-Cs Thermique est une entreprise de plomberie chauffage, l'entreprise venant de se créer souhaitait un site web vitrine pour présenter son actvité et être visible sur le web.
-Le client souhaitait un site web simple sans interface de gestion de contenu.
+Cs Thermique est une entreprise de plomberie chauffage, l'entreprise venant de se créer souhaite un site web vitrine pour présenter son actvité et être visible sur le web.
+Le client souhaite un site web simple sans interface de gestion de contenu.
 
 ## Maquettage
 
