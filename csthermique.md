@@ -16,7 +16,7 @@ J'ai créé le logo, élaboré le design et j'ai concu la maquette avec Figma.
 ## Développement
 
 Vu les besoins du client, j'ai choisi de développer ce site web simplement en HTML, CSS, Javascript et PHP pour le formulaire de contact. J'aime utiliser Sass pour mieux organiser mon CSS.
-J'ai toujours cet esprit de légèreté, ici aucune nécessité d'utiliser un framework par exemple.
+J'ai toujours cet esprit de légèreté, ici, aucune nécessité d'utiliser un framework par exemple.
 
 [Voir le site web en ligne](https://csthermique.fr)
 
