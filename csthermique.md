@@ -5,9 +5,9 @@
 Cs Thermique est une entreprise de plomberie chauffage, l'entreprise venant de se créer souhaite un site web vitrine pour présenter son actvité et être visible sur le web.
 Le client souhaite un site web simple sans interface de gestion de contenu.
 
-## Maquettage
+## Design et maquettage
 
-J'ai créé le logo, élaboré le design et j'ai concu la maquette avec Figma.
+Création du logo, élaboration du design et conception de la maquette avec Figma.
 
 ![Logo](https://github.com/alicemimouni/projets/assets/82211729/a3166551-7942-40b8-96d8-4ee2617e8358)
 
@@ -15,8 +15,7 @@ J'ai créé le logo, élaboré le design et j'ai concu la maquette avec Figma.
 
 ## Développement
 
-Vu les besoins du client, j'ai choisi de développer ce site web simplement en HTML, CSS, Javascript et PHP pour le formulaire de contact. J'aime utiliser Sass pour mieux organiser mon CSS.
-J'ai toujours cet esprit de légèreté, ici, aucune nécessité d'utiliser un framework par exemple.
+Vu les besoins du client, j'ai choisi de développer ce site web en HTML, CSS, Javascript et PHP. 
 
 [Voir le site web en ligne](https://csthermique.fr)
 
