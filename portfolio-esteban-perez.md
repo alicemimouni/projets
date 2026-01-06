@@ -1,4 +1,4 @@
- # Portfolio Esteban étudiant en communication visuelle
+ # Portfolio : étudiant en communication visuelle
  
 <img width="995" height="695" alt="Capture d&#39;écran 2024-05-20 171141" src="https://github.com/user-attachments/assets/42055fd0-e551-4c56-bb5a-441151d4cc45" />
 
