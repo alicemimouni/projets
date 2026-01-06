@@ -17,6 +17,5 @@ Création du logo, élaboration du design et conception de la maquette avec Figm
 
 Vu les besoins du client, j'ai choisi de développer ce site web en HTML, CSS, Javascript et PHP. 
 
-[Voir le site web en ligne](https://csthermique.fr)
 
 
